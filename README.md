@@ -6,13 +6,15 @@
  
  
 # Front-end
-repository = https://github.com/chiarafais/capstoneFE
+• Repository = https://github.com/chiarafais/capstoneFE
+
+• To start the front-end, clone the repository and open with VScode (or another editor) and in the terminal enter the command
 
 # Back-end 
-repository = https://github.com/chiarafais/capstoneBE
+• Repository = https://github.com/chiarafais/capstoneBE
 
 # Database 💾
-In this repository there is a CSV file, it contains the list of beaches with their data.
+• In this repository there is a CSV file, it contains the list of beaches with their data.
 I recommend using PostgreSQL (among other things) makes csv import easy.
 After you start back-end :
 gestionalespiagge › Schemas › public › Tables › spiagge
