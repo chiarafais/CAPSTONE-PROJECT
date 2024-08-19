@@ -22,10 +22,15 @@ and press --> o + enter
 • For the back-end, clone repository and open with intelliJ (or another editor suitable for back-end)
 
 • Create new file env.properties with environment variables :
+
  SERVER_PORT
+ 
  PG_USERNAME
+ 
  PG_PASSWORD
+ 
  PG_URL es.jdbc:postgresql://localhost:5432/gestionalespiagge
+ 
  JWT_SECRET
 
 • Make sure there is this line in the application.properties file --> spring.config.import=file:env.properties
