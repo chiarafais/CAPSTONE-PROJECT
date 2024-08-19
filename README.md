@@ -16,7 +16,7 @@ In this repository there is a CSV file, it contains the list of beaches with the
 I recommend using PostgreSQL (among other things) makes csv import easy.
 After you start back-end :
 gestionalespiagge › Schemas › public › Tables › spiagge
-on "spiagge" import/export data -----> inside the folder "configuration PostgreSQL CSV" you will find screens on how to set up the import.
+on "spiagge" import/export data ---> inside the folder "configuration PostgreSQL CSV" you will find screens on how to set up the import.
 
 
 # Contact 📨
