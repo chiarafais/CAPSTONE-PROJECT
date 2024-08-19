@@ -9,8 +9,11 @@
 • Repository = https://github.com/chiarafais/capstoneFE
 
 • To start the front-end, clone the repository and open with VScode (or another editor)
+
 and in the terminal write the command --> npm i
+
 after end install --> npm run dev
+
 and press --> o + enter 
 
 # Back-end 
