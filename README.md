@@ -8,10 +8,26 @@
 # Front-end
 • Repository = https://github.com/chiarafais/capstoneFE
 
-• To start the front-end, clone the repository and open with VScode (or another editor) and in the terminal enter the command
+• To start the front-end, clone the repository and open with VScode (or another editor)
+and in the terminal write the command --> npm i
+after end install --> npm run dev
+and press --> o + enter 
 
 # Back-end 
 • Repository = https://github.com/chiarafais/capstoneBE
+
+• For the back-end, clone repository and open with intelliJ (or another editor suitable for back-end)
+
+• Create new file env.properties with environment variables :
+ SERVER_PORT
+ PG_USERNAME
+ PG_PASSWORD
+ PG_URL es.jdbc:postgresql://localhost:5432/gestionalespiagge
+ JWT_SECRET
+
+• Make sure there is this line in the application.properties file --> spring.config.import=file:env.properties
+
+• After doing these steps, you are ready to start CapstoneBeApplication ▶️
 
 # Database 💾
 • In this repository there is a CSV file, it contains the list of beaches with their data.
